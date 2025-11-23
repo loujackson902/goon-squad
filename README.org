@@ -5,6 +5,7 @@
 #+SETUPFILE: ./css/style/theme-bigblow.setup
 #+INCLUDE: "./header.org"
 #+OPTIONS: num:nil
+#+auto_tangle: t
 #+HTML_HEAD: <script>document.addEventListener("DOMContentLoaded", function() { var links = document.getElementsByTagName("a"); for (var i = 0; i < links.length; i++) { links[i].target = "_blank"; } });</script>
 
 * Services
