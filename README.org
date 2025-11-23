@@ -1,0 +1,11 @@
+#+TITLE: Goon Squad
+#+AUTHOR: Lou Jackson
+#+DESCRIPTION: Landing page for the goon squad.
+#+EXPORT_FILE_NAME: ./html/index.html
+#+SETUPFILE: ./css/style/theme-bigblow.setup
+#+INCLUDE: "./header.org"
+#+OPTIONS: num:nil
+#+HTML_HEAD: <script>document.addEventListener("DOMContentLoaded", function() { var links = document.getElementsByTagName("a"); for (var i = 0; i < links.length; i++) { links[i].target = "_blank"; } });</script>
+
+* Services
+ A list of services available over the network.

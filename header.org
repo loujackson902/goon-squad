@@ -1,0 +1,17 @@
+#+DESCRIPTION: Header
+#+SETUPFILE: ./css/style/theme-readtheorg.setup
+#+OPTIONS: num:nil ^:{}
+
+#+begin_export html
+<div class="orgyeah-header">
+  <div class="topbar-menu-container">
+    <span class="topbar-menu"><a class="current" href="./index.html">Home</a></span>
+    <span class="topbar-menu"><a href="https://holdthatthought.uofc.xyz/index.html">Hold That Thought</a></span>
+    <span class="topbar-menu"><a href="https://deficit.uofc.xyz/index.html">Deficit</a></span>
+    <span class="topbar-menu"><a href="./blog.html">Blog</a></span>
+    <span class="topbar-menu"><a href="./library.html">Library</a></span>
+    <span class="topbar-menu"><a href="https://github.com/loujackson902">Github</a></span>
+    <span class="topbar-menu"><a href="./rss.xml">RSS</a></span>
+  </div>
+</div>
+#+end_export
