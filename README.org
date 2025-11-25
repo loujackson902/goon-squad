@@ -3,10 +3,26 @@
 #+DESCRIPTION: Landing page for the goon squad.
 #+EXPORT_FILE_NAME: ./html/index.html
 #+SETUPFILE: ./css/style/theme-bigblow.setup
-#+INCLUDE: "./header.org"
 #+OPTIONS: num:nil
 #+auto_tangle: t
 #+HTML_HEAD: <script>document.addEventListener("DOMContentLoaded", function() { var links = document.getElementsByTagName("a"); for (var i = 0; i < links.length; i++) { links[i].target = "_blank"; } });</script>
 
 * Services
- A list of services available over the network.
+ A list of services available over the Goon Squad network.
+
+** Mike's Services
+
+
+** Alex's Services
+#+ATTR_HTML: :width 10% :height 10%
+#+ATTR_HTML: :style display:inline ;margin:5px;
+[[http://192.168.2.20:8096][file:./img/thumbnails/jellyfin_icon.png]]
+[[http://192.168.2.20:8096][Alex's Jellyfin]]
+#+ATTR_HTML: :width 10% :height 10%
+#+ATTR_HTML: :style display:inline ;margin:5px;
+[[http://192.168.2.20:13378][file:./img/thumbnails/audiobookshelf.png]]
+[[http://192.168.2.20:13378][Alex's AudiobookShelf]]
+#+ATTR_HTML: :width 10% :height 10%
+#+ATTR_HTML: :style display:inline ;margin:5px;
+[[http://192.168.2.20:3923][file:./img/thumbnails/directory_icon.png]]
+[[http://192.168.2.20:3923][Alex's Copyparty(FileShare)]]
