@@ -11,6 +11,10 @@
  A list of services available over the Goon Squad network.
 
 ** Mike's Services
+#+ATTR_HTML: :width 10% :height 10%
+#+ATTR_HTML: :style display:inline ;margin:5px;
+[[http://192.168.2.14][file:./img/thumbnails/nextcloud_icon.png]]
+[[http://192.168.2.14][Mike's Nextcloud]]
 
 
 ** Alex's Services
