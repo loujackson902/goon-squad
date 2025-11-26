@@ -26,3 +26,7 @@
 #+ATTR_HTML: :style display:inline ;margin:5px;
 [[http://192.168.2.20:3923][file:./img/thumbnails/directory_icon.png]]
 [[http://192.168.2.20:3923][Alex's Copyparty(FileShare)]]
+
+* Key
+Server public key
+TqLEYDRb68fBT/WTpUFAGEPJU/2tDpj6sejc48zXqmM=
