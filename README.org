@@ -3,6 +3,7 @@
 #+DESCRIPTION: Landing page for the goon squad.
 #+EXPORT_FILE_NAME: ./html/index.html
 #+SETUPFILE: ./css/style/theme-bigblow.setup
+#+INCLUDE: "./header.org"
 #+OPTIONS: num:nil
 #+auto_tangle: t
 #+HTML_HEAD: <script>document.addEventListener("DOMContentLoaded", function() { var links = document.getElementsByTagName("a"); for (var i = 0; i < links.length; i++) { links[i].target = "_blank"; } });</script>
@@ -13,8 +14,8 @@
 ** Mike's Services
 #+ATTR_HTML: :width 10% :height 10%
 #+ATTR_HTML: :style display:inline ;margin:5px;
-[[http://192.168.2.14][file:./img/thumbnails/nextcloud_icon.png]]
-[[http://192.168.2.14][Mike's Nextcloud]]
+[[http://192.168.2.220][file:./img/thumbnails/nextcloud_icon.png]]
+[[http://192.168.2.220][Mike's Nextcloud]]
 
 
 ** Alex's Services
@@ -34,3 +35,9 @@
 * Key
 Server public key
 TqLEYDRb68fBT/WTpUFAGEPJU/2tDpj6sejc48zXqmM=
+
+* About
+A small collaborative project with the intent of sharpening Network, and Sysadmin, skills.
+
+** Terms of use
+By using these services you agree to refrain from viewing and distributing illegal sexual content while connected to the tunnel.
